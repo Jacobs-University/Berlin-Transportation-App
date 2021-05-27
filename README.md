@@ -1,13 +1,15 @@
+Final Project for Human Computer Interaction
+
 Live Demo: <a href="https://khadkauj.github.io/berlin-Trasnportation-App-frontend/" > Berlin Transportation APP- Guide </a>
 
 Stacks used : ReactJs, Express, Axios.
 
 This repository contains the frontend part of application(reactjs.) The corresponding express backend is available
-at git repository: https://github.com/khadkauj/berlin-Trasnportation-App-expressBackend
+at git repository: https://github.com/Jacobs-University/Berlin-Transportation-App-Backend
 
 ***********************************************************************************************
 
-I was asked to do this small project where the task is to:
+The task is:
 
 Create a simple web app that uses the public transport API of Berlin
 (https://v5.vbb.transport.rest/api.html) to search through stops. When showing results, show
